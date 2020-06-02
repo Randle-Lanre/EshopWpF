@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gu80g+Ax/W4vypvqy538hjjzTh9Y7vhK4rA5lt62GK8i2CSyWc8YtSllqMbwgwaUbNAGn5YNLCJqzk306QhiRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kenny\\source\\repos\\EShopWpF\\InventoryViewModel\\InventoryViewModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kenny\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

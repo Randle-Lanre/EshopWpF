@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="undraw_a_better_world_9xfd.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="undraw_a_better_world_9xfd.png" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ImCuIDUVForTBT65Sh+tkZMdU32kQYvApj3pepvailj9F6rDgtYQZxabyx+Rw2j8wYPUuBEnrCsb1P+0xVhwlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kenny\\source\\repos\\EShopWpF\\EShopWpF\\EShopWpF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kenny\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
