@@ -4,10 +4,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EShopWpF", "EShopWpF\EShopWpF.csproj", "{DEB2B0BD-D502-4B2A-93C5-C3406ABF1097}"
+	ProjectSection(ProjectDependencies) = postProject
+		{95FD3C72-33C0-46BF-ABD1-68696CF5F8C0} = {95FD3C72-33C0-46BF-ABD1-68696CF5F8C0}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryViewModel", "InventoryViewModel\InventoryViewModel.csproj", "{95FD3C72-33C0-46BF-ABD1-68696CF5F8C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EShopViewModel", "InventoryViewModel\EShopViewModel.csproj", "{95FD3C72-33C0-46BF-ABD1-68696CF5F8C0}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3B43C524-4B64-4E58-8D88-82CD3BC3E4E8} = {3B43C524-4B64-4E58-8D88-82CD3BC3E4E8}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryModel", "InventoryModel\InventoryModel.csproj", "{3B43C524-4B64-4E58-8D88-82CD3BC3E4E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EShopModel", "InventoryModel\EShopModel.csproj", "{3B43C524-4B64-4E58-8D88-82CD3BC3E4E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

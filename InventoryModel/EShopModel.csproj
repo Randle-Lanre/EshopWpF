@@ -4,8 +4,6 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\InventoryViewModel\InventoryViewModel.csproj" />
-  </ItemGroup>
+ 
 
 </Project>

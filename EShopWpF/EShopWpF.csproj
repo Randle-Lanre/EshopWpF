@@ -11,6 +11,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\InventoryViewModel\EShopViewModel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Resource Include="undraw_a_better_world_9xfd.png" />
   </ItemGroup>
 

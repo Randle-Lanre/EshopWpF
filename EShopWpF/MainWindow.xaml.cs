@@ -1,4 +1,5 @@
-﻿using System;
+﻿using InventoryViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,6 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+
 namespace EShopWpF
 {
     /// <summary>
@@ -23,6 +25,9 @@ namespace EShopWpF
         public MainWindow()
         {
             InitializeComponent();
+
+            //binding viewModel
+            DataContext = new EShopViewModel();
         }
     }
 }
